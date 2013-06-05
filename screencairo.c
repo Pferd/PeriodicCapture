@@ -1,5 +1,5 @@
 // This program takes screenshot using the cairo Library.
-// Authored by someone.
+// Authored by someone. Edited by Pferd (RC)
 
 
 #include <cairo.h>
