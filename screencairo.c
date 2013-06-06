@@ -1,3 +1,6 @@
+/* Authored by: Pferd (RC)*/
+
+
 #include <pthread.h>
 #include <cairo.h>
 #include <cairo-xlib.h>
